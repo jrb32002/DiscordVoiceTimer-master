@@ -24,3 +24,5 @@ Welcome to the **Discord Voice Timer Bot** github! Below you can read more about
     - Click the _**bot, administrator**_ checkboxes once again
     - Copy the generated link at the bottom of the page
     - Paste link into browser and follow prompts to add to desired server (Must be an administrator or an owner of the server)
+
+## Downloading and starting

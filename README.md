@@ -44,3 +44,20 @@ NOTE: All commands must have your set prefix before each command
 ```
 settime Mmm DD YYYY HH:MM. (time is 24 hour clock) Ex. :settime Jun 23 2022 15:30
 ``` 
+More coming soon
+
+#### Months for settime command 
+```
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+```

@@ -35,4 +35,5 @@ Welcome to the **Discord Voice Timer Bot** github! Below you can read more about
 4. Paste your bot token you got from [Discord Developer Portal](https://discord.com/developers/applications) where it says *discord bot token*
 5. Define a prefix or keep the default prefix
 6. Copy an id of a channel in your discord for the call logs to go where it says *log channel id* [How do I find my channels id?](https://docs.statbot.net/docs/faq/general/how-find-id/)
-7. Start your bot by running the [start.bat](start.bat) file
+7. Run [install.bat](install.bat) or your bot will not work
+8. Start your bot by running the [start.bat](start.bat) file

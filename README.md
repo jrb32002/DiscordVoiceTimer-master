@@ -31,4 +31,4 @@ Welcome to the **Discord Voice Timer Bot** github! Below you can read more about
 
 1. Download the release from [here](https://github.com/jrb32002/DiscordVoiceTimer-master/releases)
 2. Extract the files to your desired location on your computer
-3. Navigate to **./src/Data/config.json**
+3. Navigate to [./src/Data/config.json](src/Data/config.json)

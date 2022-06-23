@@ -13,4 +13,14 @@ Welcome to the **Discord Voice Timer Bot** github! Below you can read more about
 7. Click the _**Add Bot**_ button
 8. Click the _**Reset Token**_ button then _**Copy Token**_ button
 9. Scroll down throw the toggle switches and turn on the following:
-   - tes
+   - Presence Intent
+   - Server Members Intent
+10. Add bot to server 
+    - Goto _**OAuth2**_ tab
+    - Click the dropdown box for _**Default Authorization Link**_
+    - Click the _**bot, administrator**_ checkboxes
+    - Save your changes
+    - Goto _**URL Generator**_ section of _**OAuth2**_
+    - Click the _**bot, administrator**_ checkboxes once again
+    - Copy the generated link at the bottom of the page
+    - Paste link into browser and follow prompts to add to desired server (Must be an administrator or an owner of the server)

@@ -28,3 +28,5 @@ Welcome to the **Discord Voice Timer Bot** github! Below you can read more about
 ## Downloading and starting
 
 #### Recommended
+
+1. Download the release from 
